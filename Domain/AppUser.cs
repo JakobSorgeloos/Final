@@ -10,7 +10,7 @@ namespace Domain
     public class AppUser : IdentityUser
     {
         #region Properties
-        //TODO add roles+ implement role usage
+      
 
         public string Name { get; set; }
 

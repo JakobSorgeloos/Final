@@ -45,7 +45,7 @@ namespace Domain
        
        
 
-        //TODO: Specifieke properties per mediatype aanmaken bvb: Serie heeft episodes en seizoenen
+        
         #endregion
     }
 }
